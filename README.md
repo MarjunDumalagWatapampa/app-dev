@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-#My 3 favorite movies
+# My 3 favorite movies
 
 **KOREAN MOVIE**
 1. Squad Game
